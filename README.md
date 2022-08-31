@@ -6,7 +6,6 @@ To run the app use the command
 
 ```powershell
 Node app.js
-Javac @sources.txt
 ```
 
 Then from the browser visit http://localhost:3000/
